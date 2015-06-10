@@ -37,7 +37,7 @@ public class Program
 						no++;
 					}
 				}*/
-				Console.WriteLine(answer.Length.ToString());
+				Console.WriteLine(answer[rand]);
 		}
 			
 }
