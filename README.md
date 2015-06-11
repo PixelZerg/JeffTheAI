@@ -3,6 +3,8 @@
 ----
 ##Todo:
 - [x] Sort out reply function's "foreach" issue
+- [x] Make Jeff 'learn'
+- [ ] Sync learn file to the internet
 
 ---
 acknowledgements: Lucky for the name - Jeff
