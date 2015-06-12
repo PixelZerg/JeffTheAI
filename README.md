@@ -7,7 +7,8 @@
 - [ ] Sync learn file to the internet
 
 ---
-###Acknowledgements: Lucky for the name - Jeff
+###Acknowledgements: 
+Lucky for the name - Jeff
 
 YOU WILL NEED .NET FRAMEWORK 4.5+ TO RUN JEFF AND VISUAL STUDIO TO COMPILE HIM.
 (However, you can use some web based IDEs online - they usually tend to have a worse result, though)
