@@ -5,7 +5,7 @@
 - [x] Sort out reply function's "foreach" issue
 - [x] Make Jeff 'learn'
 - [ ] Sync learn file to the internet
-- [ ] Create .jeff framework
+- [x] Create .jeff framework
 - [ ] Give learn file the ".jeff" file extention (easy fix)
 
 ---
