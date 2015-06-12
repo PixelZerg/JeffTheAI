@@ -9,7 +9,6 @@
 ---
 ###Acknowledgements: 
 - Lucky for the name - Jeff
-- 
 
 ---
 
