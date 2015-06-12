@@ -7,7 +7,8 @@
 - [ ] Sync learn file to the internet
 - [x] Create .jeff framework
 - [ ] Give learn file the ".jeff" file extention (easy fix)
-- [ ] Make Jeff an "independent enquirer"
+- [ ] Make Jeff an "independent enquirer" 
+- [ ] If Jeff doesn't know what to say - change the subject and learn from results
 
 ---
 ###Acknowledgements: 
