@@ -7,8 +7,12 @@
 - [ ] Sync learn file to the internet
 - [x] Create .jeff framework
 - [ ] Give learn file the ".jeff" file extention (easy fix)
-- [ ] Make Jeff an "independent enquirer" 
-- [ ] If Jeff doesn't know what to say - change the subject and learn from results
+- [ ] When "independantly enquiring" - make Jeff add it on to the last entry if there is a repettiton 
+
+######These features will be available in the next update - they are already done:
+- [x] Make Jeff an "independent enquirer" 
+- [x] If Jeff doesn't know what to say - change the subject and learn from results
+- [x] Support multiple answers when learning
 
 ---
 ###Acknowledgements: 
