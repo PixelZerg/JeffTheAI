@@ -1,0 +1,6 @@
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\l337\l337\bin\Debug\l337.exe.config
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\l337\l337\bin\Debug\l337.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\l337\l337\bin\Debug\l337.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\l337\l337\obj\Debug\l337.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\l337\l337\obj\Debug\l337.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\l337\l337\obj\Debug\l337.csprojResolveAssemblyReference.cache

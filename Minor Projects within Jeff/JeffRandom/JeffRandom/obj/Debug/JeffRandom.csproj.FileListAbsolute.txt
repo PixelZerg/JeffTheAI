@@ -1,0 +1,5 @@
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffRandom\JeffRandom\bin\Debug\JeffRandom.exe.config
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffRandom\JeffRandom\bin\Debug\JeffRandom.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffRandom\JeffRandom\bin\Debug\JeffRandom.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffRandom\JeffRandom\obj\Debug\JeffRandom.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffRandom\JeffRandom\obj\Debug\JeffRandom.pdb

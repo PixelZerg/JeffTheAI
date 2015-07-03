@@ -1,0 +1,11 @@
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff\Jeff\bin\Debug\Jeff.exe.config
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff\Jeff\bin\Debug\Jeff.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff\Jeff\bin\Debug\Jeff.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff\Jeff\obj\Debug\Jeff.csprojResolveAssemblyReference.cache
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff\Jeff\obj\Debug\Jeff.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff\Jeff\obj\Debug\Jeff.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff-KRelay\Jeff\bin\Debug\Jeff.exe.config
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff-KRelay\Jeff\obj\Debug\Jeff.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff-KRelay\Jeff\obj\Debug\Jeff.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff-KRelay\Jeff\bin\Debug\Jeff-Krelay.exe.config
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Jeff-KRelay\Jeff\obj\Debug\Jeff.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffEmotion\JeffEmotion\bin\Debug\JeffEmotion.exe.config
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffEmotion\JeffEmotion\bin\Debug\JeffEmotion.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffEmotion\JeffEmotion\bin\Debug\JeffEmotion.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffEmotion\JeffEmotion\obj\Debug\JeffEmotion.csprojResolveAssemblyReference.cache
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffEmotion\JeffEmotion\obj\Debug\JeffEmotion.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffEmotion\JeffEmotion\obj\Debug\JeffEmotion.pdb

@@ -1,0 +1,4 @@
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\jeff-Framework\jeff-Framework\bin\Debug\jeff-Framework.dll
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\jeff-Framework\jeff-Framework\bin\Debug\jeff-Framework.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\jeff-Framework\jeff-Framework\obj\Debug\jeff-Framework.dll
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\jeff-Framework\jeff-Framework\obj\Debug\jeff-Framework.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffKRelay\JeffKRelay\bin\Debug\JeffKRelay.dll
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffKRelay\JeffKRelay\bin\Debug\JeffKRelay.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffKRelay\JeffKRelay\bin\Debug\Lib K Relay.dll
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffKRelay\JeffKRelay\obj\Debug\JeffKRelay.csprojResolveAssemblyReference.cache
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffKRelay\JeffKRelay\obj\Debug\JeffKRelay.dll
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\JeffKRelay\JeffKRelay\obj\Debug\JeffKRelay.pdb

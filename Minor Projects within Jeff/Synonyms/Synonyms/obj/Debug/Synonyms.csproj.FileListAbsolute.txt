@@ -1,0 +1,6 @@
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Synonyms\Synonyms\bin\Debug\Synonyms.exe.config
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Synonyms\Synonyms\bin\Debug\Synonyms.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Synonyms\Synonyms\bin\Debug\Synonyms.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Synonyms\Synonyms\obj\Debug\Synonyms.csprojResolveAssemblyReference.cache
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Synonyms\Synonyms\obj\Debug\Synonyms.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Synonyms\Synonyms\obj\Debug\Synonyms.pdb
