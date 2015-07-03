@@ -37,7 +37,7 @@
 ---
 ###Acknowledgements: 
 - Lucky for the name - Jeff
-- Harry for the "either way, therefore" mode
+- Harry for suggesting the "either way, therefore" mode
 
 ---
 
