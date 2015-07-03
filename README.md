@@ -29,11 +29,6 @@
 - [x] if the jeff files are courrupted - warn the user
 - [x] Run a last "final" function before actually saying the final result - just to add some filters, and double checks
 
-######These features will be available in the next update - they are already done:
-- [x] Make Jeff an "independent enquirer" 
-- [x] If Jeff doesn't know what to say - change the subject and learn from results
-- [x] Support multiple answers when learning
-
 ---
 ###Acknowledgements: 
 - Lucky for the name - Jeff
